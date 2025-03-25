@@ -37,3 +37,4 @@ const wage = {
     }
 }
 console.log(wage.getWage());
+
